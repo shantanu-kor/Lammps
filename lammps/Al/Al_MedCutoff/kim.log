@@ -1,0 +1,417 @@
+2022-02-13:09:43:10IST * 0 * information * 0x56092c14e940 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:43:10IST * 0 * information * 0x56092c1efa00 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:43:10IST * 1 * information * 0x56092c1efa00 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x56092c14e940_Collections'.
+2022-02-13:09:43:10IST * 2 * information * 0x56092c14e940_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c1efa00'.
+2022-02-13:09:43:10IST * 1 * warning * 0x56092c14e940 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffedec86570). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:09:43:10IST * 2 * information * 0x56092c14e940 * Morse_Shifted.c:759 * Setting units
+2022-02-13:09:43:10IST * 3 * information * 0x56092c14e940 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:09:43:10IST * 4 * information * 0x56092c14e940 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:09:43:10IST * 5 * information * 0x56092c14e940 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:09:43:10IST * 6 * information * 0x56092c14e940 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:09:43:10IST * 7 * information * 0x56092c14e940 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:09:43:10IST * 8 * information * 0x56092c14e940 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:09:43:10IST * 9 * information * 0x56092c14e940 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:09:43:10IST * 10 * information * 0x56092c14e940 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:09:43:10IST * 11 * information * 0x56092c14e940 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:09:43:10IST * 12 * error * 0x56092c14e940 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:09:43:10IST * 3 * information * 0x56092c14e940_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:43:10IST * 13 * information * 0x56092c14e940 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:09:43:10IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c14e940'.
+2022-02-13:09:43:10IST * 0 * information * 0x56092c1efa00 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:43:10IST * 1 * information * 0x56092c1efa00 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x56092c1efa00'.
+2022-02-13:09:43:10IST * 2 * information * 0_Model_0x56092c1efa00 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c1efa00'.
+2022-02-13:09:43:10IST * 3 * information * 0_Model_0x56092c1efa00 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:09:43:10IST * 4 * information * 0_Model_0x56092c1efa00 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:09:43:10IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x56092c1efa00'.
+2022-02-13:09:45:17IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:45:17IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:09:45:17IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:45:17IST * 0 * information * 0x56092c1f1ea0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:45:17IST * 0 * information * 0x56092c1f2910 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:45:17IST * 1 * information * 0x56092c1f2910 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x56092c1f1ea0_Collections'.
+2022-02-13:09:45:17IST * 2 * information * 0x56092c1f1ea0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c1f2910'.
+2022-02-13:09:45:17IST * 1 * warning * 0x56092c1f1ea0 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffedec86570). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:09:45:17IST * 2 * information * 0x56092c1f1ea0 * Morse_Shifted.c:759 * Setting units
+2022-02-13:09:45:17IST * 3 * information * 0x56092c1f1ea0 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:09:45:17IST * 4 * information * 0x56092c1f1ea0 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:09:45:17IST * 5 * information * 0x56092c1f1ea0 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:09:45:17IST * 6 * information * 0x56092c1f1ea0 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:09:45:17IST * 7 * information * 0x56092c1f1ea0 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:09:45:17IST * 8 * information * 0x56092c1f1ea0 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:09:45:17IST * 9 * information * 0x56092c1f1ea0 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:09:45:17IST * 10 * information * 0x56092c1f1ea0 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:09:45:17IST * 11 * information * 0x56092c1f1ea0 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:09:45:17IST * 12 * error * 0x56092c1f1ea0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:09:45:17IST * 3 * information * 0x56092c1f1ea0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:45:17IST * 13 * information * 0x56092c1f1ea0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:09:45:17IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c1f1ea0'.
+2022-02-13:09:45:17IST * 0 * information * 0x56092c1f2910 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:45:17IST * 1 * information * 0x56092c1f2910 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x56092c1f2910'.
+2022-02-13:09:45:17IST * 2 * information * 0_Model_0x56092c1f2910 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c1f2910'.
+2022-02-13:09:45:17IST * 3 * information * 0_Model_0x56092c1f2910 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:09:45:17IST * 4 * information * 0_Model_0x56092c1f2910 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:09:45:17IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x56092c1f2910'.
+2022-02-13:09:47:01IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:47:01IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:09:47:01IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:47:01IST * 0 * information * 0x56092c1f0840 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:47:01IST * 0 * information * 0x56092c145b00 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:47:01IST * 1 * information * 0x56092c145b00 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x56092c1f0840_Collections'.
+2022-02-13:09:47:01IST * 2 * information * 0x56092c1f0840_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c145b00'.
+2022-02-13:09:47:01IST * 1 * warning * 0x56092c1f0840 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffedec86570). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:09:47:01IST * 2 * information * 0x56092c1f0840 * Morse_Shifted.c:759 * Setting units
+2022-02-13:09:47:01IST * 3 * information * 0x56092c1f0840 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:09:47:01IST * 4 * information * 0x56092c1f0840 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:09:47:01IST * 5 * information * 0x56092c1f0840 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:09:47:01IST * 6 * information * 0x56092c1f0840 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:09:47:01IST * 7 * information * 0x56092c1f0840 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:09:47:01IST * 8 * information * 0x56092c1f0840 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:09:47:01IST * 9 * information * 0x56092c1f0840 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:09:47:01IST * 10 * information * 0x56092c1f0840 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:09:47:01IST * 11 * information * 0x56092c1f0840 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:09:47:01IST * 12 * error * 0x56092c1f0840 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:09:47:01IST * 3 * information * 0x56092c1f0840_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:47:01IST * 13 * information * 0x56092c1f0840 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:09:47:01IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c1f0840'.
+2022-02-13:09:47:01IST * 0 * information * 0x56092c145b00 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:47:01IST * 1 * information * 0x56092c145b00 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x56092c145b00'.
+2022-02-13:09:47:01IST * 2 * information * 0_Model_0x56092c145b00 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c145b00'.
+2022-02-13:09:47:01IST * 3 * information * 0_Model_0x56092c145b00 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:09:47:01IST * 4 * information * 0_Model_0x56092c145b00 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:09:47:01IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x56092c145b00'.
+2022-02-13:09:48:46IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:48:46IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:09:48:46IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:48:46IST * 0 * information * 0x56092c1efa00 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:48:46IST * 0 * information * 0x56092c468c80 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:48:46IST * 1 * information * 0x56092c468c80 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x56092c1efa00_Collections'.
+2022-02-13:09:48:46IST * 2 * information * 0x56092c1efa00_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c468c80'.
+2022-02-13:09:48:46IST * 1 * warning * 0x56092c1efa00 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffedec86570). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:09:48:46IST * 2 * information * 0x56092c1efa00 * Morse_Shifted.c:759 * Setting units
+2022-02-13:09:48:46IST * 3 * information * 0x56092c1efa00 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:09:48:46IST * 4 * information * 0x56092c1efa00 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:09:48:46IST * 5 * information * 0x56092c1efa00 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:09:48:46IST * 6 * information * 0x56092c1efa00 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:09:48:46IST * 7 * information * 0x56092c1efa00 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:09:48:46IST * 8 * information * 0x56092c1efa00 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:09:48:46IST * 9 * information * 0x56092c1efa00 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:09:48:46IST * 10 * information * 0x56092c1efa00 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:09:48:46IST * 11 * information * 0x56092c1efa00 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:09:48:46IST * 12 * error * 0x56092c1efa00 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:09:48:46IST * 3 * information * 0x56092c1efa00_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:48:46IST * 13 * information * 0x56092c1efa00 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:09:48:46IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c1efa00'.
+2022-02-13:09:48:46IST * 0 * information * 0x56092c468c80 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:48:46IST * 1 * information * 0x56092c468c80 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x56092c468c80'.
+2022-02-13:09:48:46IST * 2 * information * 0_Model_0x56092c468c80 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c468c80'.
+2022-02-13:09:48:46IST * 3 * information * 0_Model_0x56092c468c80 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:09:48:46IST * 4 * information * 0_Model_0x56092c468c80 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:09:48:46IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x56092c468c80'.
+2022-02-13:09:50:34IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:50:34IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:09:50:34IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:50:34IST * 0 * information * 0x56092c1f2910 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:50:34IST * 0 * information * 0x56092c4682a0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:50:34IST * 1 * information * 0x56092c4682a0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x56092c1f2910_Collections'.
+2022-02-13:09:50:34IST * 2 * information * 0x56092c1f2910_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c4682a0'.
+2022-02-13:09:50:34IST * 1 * warning * 0x56092c1f2910 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffedec86570). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:09:50:34IST * 2 * information * 0x56092c1f2910 * Morse_Shifted.c:759 * Setting units
+2022-02-13:09:50:34IST * 3 * information * 0x56092c1f2910 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:09:50:34IST * 4 * information * 0x56092c1f2910 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:09:50:34IST * 5 * information * 0x56092c1f2910 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:09:50:34IST * 6 * information * 0x56092c1f2910 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:09:50:34IST * 7 * information * 0x56092c1f2910 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:09:50:34IST * 8 * information * 0x56092c1f2910 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:09:50:34IST * 9 * information * 0x56092c1f2910 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:09:50:34IST * 10 * information * 0x56092c1f2910 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:09:50:34IST * 11 * information * 0x56092c1f2910 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:09:50:34IST * 12 * error * 0x56092c1f2910 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:09:50:34IST * 3 * information * 0x56092c1f2910_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:09:50:34IST * 13 * information * 0x56092c1f2910 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:09:50:34IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c1f2910'.
+2022-02-13:09:50:34IST * 0 * information * 0x56092c4682a0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:09:50:34IST * 1 * information * 0x56092c4682a0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x56092c4682a0'.
+2022-02-13:09:50:34IST * 2 * information * 0_Model_0x56092c4682a0 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x56092c4682a0'.
+2022-02-13:09:50:34IST * 3 * information * 0_Model_0x56092c4682a0 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:09:50:34IST * 4 * information * 0_Model_0x56092c4682a0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:09:50:34IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x56092c4682a0'.
+2022-02-13:10:44:14IST * 0 * information * 0x55f2871bcee0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:44:14IST * 0 * information * 0x55f28725dfe0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:44:14IST * 1 * information * 0x55f28725dfe0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55f2871bcee0_Collections'.
+2022-02-13:10:44:14IST * 2 * information * 0x55f2871bcee0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f28725dfe0'.
+2022-02-13:10:44:14IST * 1 * warning * 0x55f2871bcee0 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffc330a40a0). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:10:44:14IST * 2 * information * 0x55f2871bcee0 * Morse_Shifted.c:759 * Setting units
+2022-02-13:10:44:14IST * 3 * information * 0x55f2871bcee0 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:10:44:14IST * 4 * information * 0x55f2871bcee0 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:10:44:14IST * 5 * information * 0x55f2871bcee0 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:10:44:14IST * 6 * information * 0x55f2871bcee0 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:10:44:14IST * 7 * information * 0x55f2871bcee0 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:10:44:14IST * 8 * information * 0x55f2871bcee0 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:10:44:14IST * 9 * information * 0x55f2871bcee0 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:10:44:14IST * 10 * information * 0x55f2871bcee0 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:10:44:14IST * 11 * information * 0x55f2871bcee0 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:10:44:14IST * 12 * error * 0x55f2871bcee0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:10:44:14IST * 3 * information * 0x55f2871bcee0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:44:14IST * 13 * information * 0x55f2871bcee0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:10:44:14IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f2871bcee0'.
+2022-02-13:10:44:14IST * 0 * information * 0x55f28725dfe0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:44:14IST * 1 * information * 0x55f28725dfe0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55f28725dfe0'.
+2022-02-13:10:44:14IST * 2 * information * 0_Model_0x55f28725dfe0 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f28725dfe0'.
+2022-02-13:10:44:14IST * 3 * information * 0_Model_0x55f28725dfe0 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:10:44:14IST * 4 * information * 0_Model_0x55f28725dfe0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:10:44:14IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55f28725dfe0'.
+2022-02-13:10:45:24IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:45:24IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:10:45:24IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:45:24IST * 0 * information * 0x55f2872604a0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:45:24IST * 0 * information * 0x55f287260f10 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:45:24IST * 1 * information * 0x55f287260f10 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55f2872604a0_Collections'.
+2022-02-13:10:45:24IST * 2 * information * 0x55f2872604a0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287260f10'.
+2022-02-13:10:45:24IST * 1 * warning * 0x55f2872604a0 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffc330a40a0). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:10:45:24IST * 2 * information * 0x55f2872604a0 * Morse_Shifted.c:759 * Setting units
+2022-02-13:10:45:24IST * 3 * information * 0x55f2872604a0 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:10:45:24IST * 4 * information * 0x55f2872604a0 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:10:45:24IST * 5 * information * 0x55f2872604a0 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:10:45:24IST * 6 * information * 0x55f2872604a0 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:10:45:24IST * 7 * information * 0x55f2872604a0 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:10:45:24IST * 8 * information * 0x55f2872604a0 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:10:45:24IST * 9 * information * 0x55f2872604a0 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:10:45:24IST * 10 * information * 0x55f2872604a0 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:10:45:24IST * 11 * information * 0x55f2872604a0 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:10:45:24IST * 12 * error * 0x55f2872604a0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:10:45:24IST * 3 * information * 0x55f2872604a0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:45:24IST * 13 * information * 0x55f2872604a0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:10:45:24IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f2872604a0'.
+2022-02-13:10:45:24IST * 0 * information * 0x55f287260f10 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:45:24IST * 1 * information * 0x55f287260f10 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55f287260f10'.
+2022-02-13:10:45:24IST * 2 * information * 0_Model_0x55f287260f10 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287260f10'.
+2022-02-13:10:45:24IST * 3 * information * 0_Model_0x55f287260f10 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:10:45:24IST * 4 * information * 0_Model_0x55f287260f10 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:10:45:24IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55f287260f10'.
+2022-02-13:10:46:27IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:46:27IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:10:46:27IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:46:27IST * 0 * information * 0x55f28725eeb0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:46:27IST * 0 * information * 0x55f2871b4ac0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:46:27IST * 1 * information * 0x55f2871b4ac0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55f28725eeb0_Collections'.
+2022-02-13:10:46:27IST * 2 * information * 0x55f28725eeb0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f2871b4ac0'.
+2022-02-13:10:46:27IST * 1 * warning * 0x55f28725eeb0 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffc330a40a0). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:10:46:27IST * 2 * information * 0x55f28725eeb0 * Morse_Shifted.c:759 * Setting units
+2022-02-13:10:46:27IST * 3 * information * 0x55f28725eeb0 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:10:46:27IST * 4 * information * 0x55f28725eeb0 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:10:46:27IST * 5 * information * 0x55f28725eeb0 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:10:46:27IST * 6 * information * 0x55f28725eeb0 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:10:46:27IST * 7 * information * 0x55f28725eeb0 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:10:46:27IST * 8 * information * 0x55f28725eeb0 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:10:46:27IST * 9 * information * 0x55f28725eeb0 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:10:46:27IST * 10 * information * 0x55f28725eeb0 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:10:46:27IST * 11 * information * 0x55f28725eeb0 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:10:46:27IST * 12 * error * 0x55f28725eeb0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:10:46:27IST * 3 * information * 0x55f28725eeb0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:46:27IST * 13 * information * 0x55f28725eeb0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:10:46:27IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f28725eeb0'.
+2022-02-13:10:46:27IST * 0 * information * 0x55f2871b4ac0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:46:27IST * 1 * information * 0x55f2871b4ac0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55f2871b4ac0'.
+2022-02-13:10:46:27IST * 2 * information * 0_Model_0x55f2871b4ac0 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f2871b4ac0'.
+2022-02-13:10:46:27IST * 3 * information * 0_Model_0x55f2871b4ac0 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:10:46:27IST * 4 * information * 0_Model_0x55f2871b4ac0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:10:46:27IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55f2871b4ac0'.
+2022-02-13:10:47:29IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:47:29IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:10:47:29IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:47:29IST * 0 * information * 0x55f28725dfe0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:47:29IST * 0 * information * 0x55f28723e2b0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:47:29IST * 1 * information * 0x55f28723e2b0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55f28725dfe0_Collections'.
+2022-02-13:10:47:29IST * 2 * information * 0x55f28725dfe0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f28723e2b0'.
+2022-02-13:10:47:29IST * 1 * warning * 0x55f28725dfe0 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffc330a40a0). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:10:47:29IST * 2 * information * 0x55f28725dfe0 * Morse_Shifted.c:759 * Setting units
+2022-02-13:10:47:29IST * 3 * information * 0x55f28725dfe0 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:10:47:29IST * 4 * information * 0x55f28725dfe0 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:10:47:29IST * 5 * information * 0x55f28725dfe0 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:10:47:29IST * 6 * information * 0x55f28725dfe0 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:10:47:29IST * 7 * information * 0x55f28725dfe0 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:10:47:29IST * 8 * information * 0x55f28725dfe0 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:10:47:29IST * 9 * information * 0x55f28725dfe0 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:10:47:29IST * 10 * information * 0x55f28725dfe0 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:10:47:29IST * 11 * information * 0x55f28725dfe0 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:10:47:29IST * 12 * error * 0x55f28725dfe0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:10:47:29IST * 3 * information * 0x55f28725dfe0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:47:29IST * 13 * information * 0x55f28725dfe0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:10:47:29IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f28725dfe0'.
+2022-02-13:10:47:29IST * 0 * information * 0x55f28723e2b0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:47:29IST * 1 * information * 0x55f28723e2b0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55f28723e2b0'.
+2022-02-13:10:47:29IST * 2 * information * 0_Model_0x55f28723e2b0 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f28723e2b0'.
+2022-02-13:10:47:29IST * 3 * information * 0_Model_0x55f28723e2b0 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:10:47:29IST * 4 * information * 0_Model_0x55f28723e2b0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:10:47:29IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55f28723e2b0'.
+2022-02-13:10:48:31IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:48:31IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:10:48:31IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:48:31IST * 0 * information * 0x55f287260f10 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:48:31IST * 0 * information * 0x55f287485110 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:48:31IST * 1 * information * 0x55f287485110 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55f287260f10_Collections'.
+2022-02-13:10:48:31IST * 2 * information * 0x55f287260f10_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287485110'.
+2022-02-13:10:48:31IST * 1 * warning * 0x55f287260f10 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffc330a40a0). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:10:48:31IST * 2 * information * 0x55f287260f10 * Morse_Shifted.c:759 * Setting units
+2022-02-13:10:48:31IST * 3 * information * 0x55f287260f10 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:10:48:31IST * 4 * information * 0x55f287260f10 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:10:48:31IST * 5 * information * 0x55f287260f10 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:10:48:31IST * 6 * information * 0x55f287260f10 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:10:48:31IST * 7 * information * 0x55f287260f10 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:10:48:31IST * 8 * information * 0x55f287260f10 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:10:48:31IST * 9 * information * 0x55f287260f10 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:10:48:31IST * 10 * information * 0x55f287260f10 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:10:48:31IST * 11 * information * 0x55f287260f10 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:10:48:31IST * 12 * error * 0x55f287260f10 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:10:48:31IST * 3 * information * 0x55f287260f10_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:48:31IST * 13 * information * 0x55f287260f10 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:10:48:31IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287260f10'.
+2022-02-13:10:48:31IST * 0 * information * 0x55f287485110 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:48:31IST * 1 * information * 0x55f287485110 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55f287485110'.
+2022-02-13:10:48:31IST * 2 * information * 0_Model_0x55f287485110 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287485110'.
+2022-02-13:10:48:31IST * 3 * information * 0_Model_0x55f287485110 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:10:48:31IST * 4 * information * 0_Model_0x55f287485110 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:10:48:31IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55f287485110'.
+2022-02-13:10:49:30IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:49:30IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:10:49:30IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:49:30IST * 0 * information * 0x55f2871b4ac0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:49:30IST * 0 * information * 0x55f28719d0e0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:49:30IST * 1 * information * 0x55f28719d0e0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55f2871b4ac0_Collections'.
+2022-02-13:10:49:30IST * 2 * information * 0x55f2871b4ac0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f28719d0e0'.
+2022-02-13:10:49:30IST * 1 * warning * 0x55f2871b4ac0 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffc330a40a0). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:10:49:30IST * 2 * information * 0x55f2871b4ac0 * Morse_Shifted.c:759 * Setting units
+2022-02-13:10:49:30IST * 3 * information * 0x55f2871b4ac0 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:10:49:30IST * 4 * information * 0x55f2871b4ac0 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:10:49:30IST * 5 * information * 0x55f2871b4ac0 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:10:49:30IST * 6 * information * 0x55f2871b4ac0 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:10:49:30IST * 7 * information * 0x55f2871b4ac0 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:10:49:30IST * 8 * information * 0x55f2871b4ac0 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:10:49:30IST * 9 * information * 0x55f2871b4ac0 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:10:49:30IST * 10 * information * 0x55f2871b4ac0 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:10:49:30IST * 11 * information * 0x55f2871b4ac0 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:10:49:30IST * 12 * error * 0x55f2871b4ac0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:10:49:30IST * 3 * information * 0x55f2871b4ac0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:49:30IST * 13 * information * 0x55f2871b4ac0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:10:49:30IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f2871b4ac0'.
+2022-02-13:10:49:30IST * 0 * information * 0x55f28719d0e0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:49:30IST * 1 * information * 0x55f28719d0e0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55f28719d0e0'.
+2022-02-13:10:49:30IST * 2 * information * 0_Model_0x55f28719d0e0 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f28719d0e0'.
+2022-02-13:10:49:30IST * 3 * information * 0_Model_0x55f28719d0e0 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:10:49:30IST * 4 * information * 0_Model_0x55f28719d0e0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:10:49:30IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55f28719d0e0'.
+2022-02-13:10:50:28IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:50:28IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:10:50:28IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:50:28IST * 0 * information * 0x55f28723e2b0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:50:28IST * 0 * information * 0x55f287395820 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:50:28IST * 1 * information * 0x55f287395820 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55f28723e2b0_Collections'.
+2022-02-13:10:50:28IST * 2 * information * 0x55f28723e2b0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287395820'.
+2022-02-13:10:50:28IST * 1 * warning * 0x55f28723e2b0 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffc330a40a0). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:10:50:28IST * 2 * information * 0x55f28723e2b0 * Morse_Shifted.c:759 * Setting units
+2022-02-13:10:50:28IST * 3 * information * 0x55f28723e2b0 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:10:50:28IST * 4 * information * 0x55f28723e2b0 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:10:50:28IST * 5 * information * 0x55f28723e2b0 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:10:50:28IST * 6 * information * 0x55f28723e2b0 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:10:50:28IST * 7 * information * 0x55f28723e2b0 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:10:50:28IST * 8 * information * 0x55f28723e2b0 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:10:50:28IST * 9 * information * 0x55f28723e2b0 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:10:50:28IST * 10 * information * 0x55f28723e2b0 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:10:50:28IST * 11 * information * 0x55f28723e2b0 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:10:50:28IST * 12 * error * 0x55f28723e2b0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:10:50:28IST * 3 * information * 0x55f28723e2b0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:50:28IST * 13 * information * 0x55f28723e2b0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:10:50:28IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f28723e2b0'.
+2022-02-13:10:50:28IST * 0 * information * 0x55f287395820 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:50:28IST * 1 * information * 0x55f287395820 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55f287395820'.
+2022-02-13:10:50:28IST * 2 * information * 0_Model_0x55f287395820 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287395820'.
+2022-02-13:10:50:28IST * 3 * information * 0_Model_0x55f287395820 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:10:50:28IST * 4 * information * 0_Model_0x55f287395820 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:10:50:28IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55f287395820'.
+2022-02-13:10:51:25IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:51:25IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:10:51:25IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:51:25IST * 0 * information * 0x55f287485110 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:51:25IST * 0 * information * 0x55f287456840 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:51:25IST * 1 * information * 0x55f287456840 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55f287485110_Collections'.
+2022-02-13:10:51:25IST * 2 * information * 0x55f287485110_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287456840'.
+2022-02-13:10:51:25IST * 1 * warning * 0x55f287485110 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffc330a40a0). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:10:51:25IST * 2 * information * 0x55f287485110 * Morse_Shifted.c:759 * Setting units
+2022-02-13:10:51:25IST * 3 * information * 0x55f287485110 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:10:51:25IST * 4 * information * 0x55f287485110 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:10:51:25IST * 5 * information * 0x55f287485110 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:10:51:25IST * 6 * information * 0x55f287485110 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:10:51:25IST * 7 * information * 0x55f287485110 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:10:51:25IST * 8 * information * 0x55f287485110 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:10:51:25IST * 9 * information * 0x55f287485110 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:10:51:25IST * 10 * information * 0x55f287485110 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:10:51:25IST * 11 * information * 0x55f287485110 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:10:51:25IST * 12 * error * 0x55f287485110 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:10:51:25IST * 3 * information * 0x55f287485110_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:51:25IST * 13 * information * 0x55f287485110 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:10:51:25IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287485110'.
+2022-02-13:10:51:25IST * 0 * information * 0x55f287456840 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:51:25IST * 1 * information * 0x55f287456840 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55f287456840'.
+2022-02-13:10:51:25IST * 2 * information * 0_Model_0x55f287456840 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287456840'.
+2022-02-13:10:51:25IST * 3 * information * 0_Model_0x55f287456840 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:10:51:25IST * 4 * information * 0_Model_0x55f287456840 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:10:51:25IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55f287456840'.
+2022-02-13:10:52:21IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:52:21IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:10:52:21IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:52:22IST * 0 * information * 0x55f28719d0e0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:52:22IST * 0 * information * 0x55f287195780 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:52:22IST * 1 * information * 0x55f287195780 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55f28719d0e0_Collections'.
+2022-02-13:10:52:22IST * 2 * information * 0x55f28719d0e0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287195780'.
+2022-02-13:10:52:22IST * 1 * warning * 0x55f28719d0e0 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffc330a40a0). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:10:52:22IST * 2 * information * 0x55f28719d0e0 * Morse_Shifted.c:759 * Setting units
+2022-02-13:10:52:22IST * 3 * information * 0x55f28719d0e0 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:10:52:22IST * 4 * information * 0x55f28719d0e0 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:10:52:22IST * 5 * information * 0x55f28719d0e0 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:10:52:22IST * 6 * information * 0x55f28719d0e0 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:10:52:22IST * 7 * information * 0x55f28719d0e0 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:10:52:22IST * 8 * information * 0x55f28719d0e0 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:10:52:22IST * 9 * information * 0x55f28719d0e0 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:10:52:22IST * 10 * information * 0x55f28719d0e0 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:10:52:22IST * 11 * information * 0x55f28719d0e0 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:10:52:22IST * 12 * error * 0x55f28719d0e0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:10:52:22IST * 3 * information * 0x55f28719d0e0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:52:22IST * 13 * information * 0x55f28719d0e0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:10:52:22IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f28719d0e0'.
+2022-02-13:10:52:22IST * 0 * information * 0x55f287195780 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:52:22IST * 1 * information * 0x55f287195780 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55f287195780'.
+2022-02-13:10:52:22IST * 2 * information * 0_Model_0x55f287195780 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287195780'.
+2022-02-13:10:52:22IST * 3 * information * 0_Model_0x55f287195780 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:10:52:22IST * 4 * information * 0_Model_0x55f287195780 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:10:52:22IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55f287195780'.
+2022-02-13:10:53:16IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:53:16IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:10:53:16IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:53:16IST * 0 * information * 0x55f287395820 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:53:16IST * 0 * information * 0x55f287198980 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:53:16IST * 1 * information * 0x55f287198980 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55f287395820_Collections'.
+2022-02-13:10:53:16IST * 2 * information * 0x55f287395820_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287198980'.
+2022-02-13:10:53:16IST * 1 * warning * 0x55f287395820 * KIM_ModelImplementation.cpp:874 * Use of the GetParameterFileName(0, 0x7ffc330a40a0). function is deprecated. Please use GetParameterFileBasename() instead.
+2022-02-13:10:53:16IST * 2 * information * 0x55f287395820 * Morse_Shifted.c:759 * Setting units
+2022-02-13:10:53:16IST * 3 * information * 0x55f287395820 * Morse_Shifted.c:769 * Setting particle indexing to zero-based
+2022-02-13:10:53:16IST * 4 * information * 0x55f287395820 * Morse_Shifted.c:779 * Registering Model function pointers
+2022-02-13:10:53:16IST * 5 * information * 0x55f287395820 * Morse_Shifted.c:822 * Setting species code
+2022-02-13:10:53:16IST * 6 * information * 0x55f287395820 * Morse_Shifted.c:834 * Allocating memory for Model buffer
+2022-02-13:10:53:16IST * 7 * information * 0x55f287395820 * Morse_Shifted.c:844 * Registering Model buffer
+2022-02-13:10:53:16IST * 8 * information * 0x55f287395820 * Morse_Shifted.c:849 * Loading Model parameters into buffer
+2022-02-13:10:53:16IST * 9 * information * 0x55f287395820 * Morse_Shifted.c:872 * Registering influence distance pointer
+2022-02-13:10:53:16IST * 10 * information * 0x55f287395820 * Morse_Shifted.c:877 * Registering cutoff pointer
+2022-02-13:10:53:16IST * 11 * information * 0x55f287395820 * Morse_Shifted.c:887 * Registering Model parameters
+2022-02-13:10:53:16IST * 12 * error * 0x55f287395820 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-02-13:10:53:16IST * 3 * information * 0x55f287395820_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:53:16IST * 13 * information * 0x55f287395820 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-02-13:10:53:16IST * 14 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287395820'.
+2022-02-13:10:53:16IST * 0 * information * 0x55f287198980 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-02-13:10:53:16IST * 1 * information * 0x55f287198980 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55f287198980'.
+2022-02-13:10:53:16IST * 2 * information * 0_Model_0x55f287198980 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55f287198980'.
+2022-02-13:10:53:16IST * 3 * information * 0_Model_0x55f287198980 * Morse_Shifted.c:1040 * Register call back supportStatus
+2022-02-13:10:53:16IST * 4 * information * 0_Model_0x55f287198980 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-02-13:10:53:16IST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55f287198980'.
+2022-02-13:10:54:08IST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-02-13:10:54:08IST * 0 * information * 0_Model * Morse_Shifted.c:989 * Deallocating Model buffer
+2022-02-13:10:54:08IST * 1 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
