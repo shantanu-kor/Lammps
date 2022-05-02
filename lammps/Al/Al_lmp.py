@@ -28,7 +28,7 @@ for j in x:
     l = datautils.powlx(l, [0, ], 2)
     r[j] = LinReg.matrix(l)
     y = Predict.ylinreg(l, r[j]["parameters"])
-    p = poly([r[j]["parameters"] , [0, 1, 2]], True, True)
+    p = poly([r[j]["parameters"] , [0, 1, 2]])
     p = Poly.polytoan(Poly.ndpoly(p, 1))
     p = Poly.rootrre(p[0], p[1], 1, [3 + (i / 5) for i in range(10)], 1000, 0.001)
     for i in p.values():
