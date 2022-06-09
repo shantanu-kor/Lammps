@@ -1,8 +1,8 @@
-from ml_methods.algorithms import LinReg, Predict
+from ml_methods.algorithms import LinReg, Predict, SolveFn
 from ml_methods.utils import GetData
 from ml_methods.matrix import matx
 from ml_methods.data import data, datautils
-from ml_methods.functions import poly, Poly
+from ml_methods.functions import poly, funcutils
 import lammps_logfile
 import matplotlib.pyplot as plt
 
@@ -28,9 +28,9 @@ for j in x:
     l = datautils.powlx(l, [0, ], 2)
     r[j] = LinReg.matrix(l)
     y = Predict.ylinreg(l, r[j]["parameters"])
-    p = poly([r[j]["parameters"] , [0, 1, 2]])
-    p = Poly.polytoan(Poly.ndpoly(p, 1))
-    p = Poly.rootrre(p[0], p[1], 1, [3 + (i / 5) for i in range(10)], 1000, 0.001)
+    p = poly(matx([r[j]["parameters"] , [0, 1, 2]]))
+    p = funcutils.polytoan(funcutils.ndpoly(p, 1))
+    p = SolveFn.rootrre((p[0], p[1]), 1, [3 + (i / 5) for i in range(10)], 1000, 0.001)
     for i in p.values():
         if i[0] != float('nan'):
             p = i[0]
@@ -41,6 +41,6 @@ for j in x:
     plt.plot([p, ], [ym, ], 'D')
     plt.xlabel('Lattice Constant (A)')
     plt.ylabel('Energy per atom (eV)')
-    plt.title(str(r[j])+" minima: "+str(p)+" "+str(ym))
+    plt.title(str(r[j])+"\nminima: "+str(p)+" "+str(ym))
     plt.show()
 
