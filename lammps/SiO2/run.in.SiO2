@@ -1,0 +1,61 @@
+units metal
+boundary p p p
+atom_style full
+lattice custom 1 a1 8.372 0 0 a2 -2.6361 3.7719 0 a3 0 0 9.0568 basis 0.3726 0.7339 0.2187 basis 0.1340 0.9779 0.8529
+region 1 block 2.0 8.0 18.5 31.5 2.0 8.0 units lattice
+region 2 block 2.5 7.5 20.0 25.0 2.5 7.5 units lattice
+create_box 2 1
+create_atoms 1 region 2
+mass 1 28.0855
+lattice custom 1 a1 8.372 0 0 a2 -2.6361 3.7719 0 a3 0 0 9.0568 basis 0.1848 0.8745 0.0365 basis 0.3056 0.5954 0.3331 basis 0.5363 0.9738 0.3315 basis 0.9304 0.8052 0.6908
+create_atoms 2 region 2
+mass 2 15.9994
+group 1 region 2
+group 2 type 1
+group 3 type 2
+group 4 type 1 2
+dump 1 4 atom 100 dump.sio2
+compute 1 3 pe/atom
+compute 2 3 ke/atom
+compute 3 2 pe/atom
+compute 4 2 ke/atom
+compute ape_O 3 reduce ave c_1
+compute ake_O 3 reduce ave c_2
+compute ape_Si 2 reduce ave c_3
+compute ake_Si 2 reduce ave c_4
+thermo 100
+thermo_style custom step temp press vol density etotal c_ape_O c_ake_O c_ape_Si c_ake_Si 
+pair_style vashishta
+pair_coeff * * SiO.Vashishta Si O
+fix 1 all nvt temp 0.001 0.01 0.001 fixedpoint 5.0 25.0 5.0
+velocity 4 zero linear
+velocity 4 zero angular
+timestep 0.001
+run 2000
+reset_timestep 0
+unfix 1
+fix 1 all npt temp 300 300 0.001 iso 1.0 1.0 0.01 fixedpoint 5.0 22.5 5.0
+velocity 4 create 300 165420
+velocity 4 scale 300
+timestep 0.0001
+run 5000
+unfix 1
+reset_timestep 0
+fix 1 all npt temp 300 300 0.001 iso 1.0 3.5 0.01 fixedpoint 5.0 22.5 5.0
+timestep 0.0001
+run 5000
+unfix 1
+reset_timestep 0
+fix 1 all npt temp 300 850 0.001 iso 1.0 1.0 0.01 fixedpoint 5.0 22.5 5.0
+velocity 4 zero linear
+velocity 4 zero angular
+timestep 0.0001
+run 5000
+unfix 1
+reset_timestep 0
+velocity 4 create 850 46546513
+velocity 4 scale 850
+fix 1 all nvt temp 850 850 0.0001 fixedpoint 5.0 22.5 5.0
+timestep 0.0001
+run 5000
+write_data data.SiO2

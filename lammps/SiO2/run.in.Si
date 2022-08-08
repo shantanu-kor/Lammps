@@ -1,0 +1,31 @@
+units metal
+boundary m m m
+atom_style full
+read_data data.SiO2
+group 2 type 1
+group 3 type 2
+group 4 type 1 2
+dump 1 4 atom 100 dump.si
+compute 1 3 pe/atom
+compute 2 3 ke/atom
+compute 3 2 pe/atom
+compute 4 2 ke/atom
+compute ape_O 3 reduce ave c_1
+compute ake_O 3 reduce ave c_2
+compute ape_Si 2 reduce ave c_3
+compute ake_Si 2 reduce ave c_4
+thermo 100
+thermo_style custom step temp press vol density etotal c_ape_O c_ake_O c_ape_Si c_ake_Si 
+pair_style vashishta
+pair_coeff * * SiO.Vashishta Si O
+set type 2 charge -2.0
+fix 1 4 nve
+fix 2 2 wall/morse ylo EDGE 200 0.04 1.5 20.0 xlo EDGE 30 0.2 0.4 1.5 zlo EDGE 30 0.2 0.4 1.5 zhi EDGE 30 0.2 0.4 1.5 xhi EDGE 30 0.2 0.4 1.5
+velocity 4 zero linear
+velocity 4 zero angular
+velocity 2 create 850 46545434
+velocity 2 scale 850
+timestep 0.0001
+run 250000
+delete_atoms group 3
+write_data data.Si
